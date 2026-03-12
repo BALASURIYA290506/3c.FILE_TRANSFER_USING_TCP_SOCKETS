@@ -43,8 +43,10 @@ c.close()
 
 ```
 ## OUPUT:
-![alt text](image-1.png)
-![alt text](image.png)
+<img width="925" height="178" alt="image" src="https://github.com/user-attachments/assets/8ab2a8c3-e823-4dd3-9892-5a6304e42503" />
+
+<img width="852" height="271" alt="image" src="https://github.com/user-attachments/assets/c2df401e-7288-4d34-b413-738cbf451193" />
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
